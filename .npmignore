@@ -1,0 +1,5 @@
+.nyc_output
+test
+coverage
+coverage.lcov
+.DS_Store
